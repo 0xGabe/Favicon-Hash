@@ -1,6 +1,3 @@
-# Favicon-Hash
-
-
 ## How to install 
 
 ```
